@@ -11,7 +11,7 @@ Aqui você encontrará projetos, ideias e experimentos que refletem minha jornad
 - 🎯 Focada em criar soluções criativas e eficientes  
 - 🌍 Localizada em Sumaré, São Paulo, Brasil  
 
----## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
